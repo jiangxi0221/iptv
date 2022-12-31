@@ -17,8 +17,7 @@ http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 #EXTINF:-1 group-title="港澳台",华语电视3
 http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
 #EXTINF:-1 group-title="港澳台",番薯
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 #EXTINF:-1 group-title="港澳台",中国环球电视
@@ -27,104 +26,69 @@ http://live.cgtn.com/500/prog_index.m3u8
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 #EXTINF:-1 group-title="港澳台",香港卫视文旅
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-#EXTINF:-1 group-title="港澳台",大愛一台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="港澳台",大愛二台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="港澳台",中台灣生活網
-http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",中台灣生活網
-http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",CTN
-http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",CTN
-http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",海豚綜合
-http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",原住民電視
-http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+
+
+
 #EXTINF:-1 group-title="港澳台",唯心電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 group-title="港澳台",SexyK-Pop
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+
 #EXTINF:-1 group-title="港澳台",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="电影频道",星光影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="电影频道",星卫电影
-http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
-#EXTINF:-1 group-title="电影频道",欧美大片
+
+#EXTINF:-1 group-title="电影频道",斗鱼电影
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="电影频道",凤凰电影
-http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-#EXTINF:-1 group-title="电影频道",FashionTV
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+
+
 #EXTINF:-1 group-title="电影频道",FashionTV
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-#EXTINF:-1 group-title="电影频道",美食李子柒]
+#EXTINF:-1 group-title="电影频道",李子柒
 http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 #EXTINF:-1 group-title="电影频道",KK_女神影院
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+
 #EXTINF:-1 group-title="国际",OAN (1080p)
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Rai News 24 (720p)
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1 group-title="国际",日·NHK
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="国际",日·QVC
-http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 group-title="国际",韩·BBS佛教
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-#EXTINF:-1 group-title="国际",韩·EBS-1
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1 group-title="国际",韩·EBS-1
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="国际",韩·EBS-1
-http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 group-title="国际",韩·EBS-2
-http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 group-title="国际",韩·EBS-2
-http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 group-title="国际",韩·EBSE
-http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-#EXTINF:-1 group-title="国际",韩·EBS少儿
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-#EXTINF:-1 group-title="国际",韩·KBC
+
+
+
+
+
+
+#EXTINF:-1 group-title="国际",朝·KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 group-title="国际",韩·KCTV
+#EXTINF:-1 group-title="国际",朝·KCTV
 http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
-#EXTINF:-1 group-title="国际",韩·MTN
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+
 #EXTINF:-1 group-title="国际",韩·SBS
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 group-title="国际",韩·阿里郎
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",韩·阿里郎WORLD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-#EXTINF:-1 group-title="国际",韩·职业
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+
+
 #EXTINF:-1 group-title="国际",CGNTV
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="国际",CGNTV
+#EXTINF:-1 group-title="国际",CGTV阿拉伯语
 http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-title="国际",CGNTV
+#EXTINF:-1 group-title="国际",CGTV西班牙语
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="国际",CGNTV
+#EXTINF:-1 group-title="国际",CGTV葡萄牙语
 http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="国际",CGNTV
+#EXTINF:-1 group-title="国际",CGTVDocumentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 group-title="国际",Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",Channel News Asia『蓝光』
+
+#EXTINF:-1 group-title="国际",Channel News Asia『蓝光』-FQ
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",CNA(1080p)[480*270]
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="国际",NDTV 24X7[640*480]
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+
 #EXTINF:-1 group-title="国际",THAIPBS-3
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+
+#######
 #EXTINF:-1 group-title="国际",TVIKIM44
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 #EXTINF:-1 group-title="国际",TVIkim音乐(1080p)
