@@ -216,7 +216,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225675/2/index.
 http://tt-live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="地方",上海第一财经
 http://tt-live.bestvcdn.com.cn/live/program/live/dycjhd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="数字",东方财经 8M
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="地方",东方财经 8M
 http://tt-live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="地方",上海都市
 http://tt-live.bestvcdn.com.cn/live/program/live/dshd8m/8000000/mnf.m3u8
