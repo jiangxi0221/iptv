@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1HD
 http://192.168.50.1:6789/rtp/239.49.8.19:9614
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2HD
@@ -157,4 +157,4 @@ http://192.168.50.1:6789/rtp/239.49.0.209:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="4K",江苏4K测试
 http://192.168.50.1:6789/rtp/239.49.8.81:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K测试
-http://192.168.50.1:6789/rtp/239.49.8.205:8000
+http://192.168.50.1:6789/rtp/239.49.8.207:8000
