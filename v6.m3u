@@ -140,6 +140,44 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="油管NEWS",东森LIVE
+http://158.101.151.82:9000/jmsytb.m3u8?c=02
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="油管NEWS",TVBS新闻台
+http://158.101.151.82:9000/jmsytb.m3u8?c=03
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="油管NEWS",TVBSHD
+http://158.101.151.82:9000/jmsytb.m3u8?c=04
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="油管NEWS",中天新闻
+http://158.101.151.82:9000/jmsytb.m3u8?c=05
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="油管NEWS",台视新闻
+http://158.101.151.82:9000/jmsytb.m3u8?c=07
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="油管NEWS",中视新闻
+http://158.101.151.82:9000/jmsytb.m3u8?c=08
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="油管NEWS",三立Live
+http://158.101.151.82:9000/jmsytb.m3u8?c=09
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="油管NEWS",FRANCE 24
+http://158.101.151.82:9000/jmsytb.m3u8?c=12
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="油管NEWS",Bloomberg live
+http://158.101.151.82:9000/jmsytb.m3u8?c=13
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="油管NEWS",寰宇新闻台
+http://158.101.151.82:9000/jmsytb.m3u8?c=14
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="油管NEWS",三立新闻
+http://158.101.151.82:9000/jmsytb.m3u8?c=16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="油管NEWS",镜新闻
+http://158.101.151.82:9000/jmsytb.m3u8?c=19
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="油管NEWS",ABC news
+http://158.101.151.82:9000/jmsytb.m3u8?c=21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="油管NEWS",NASA
+http://158.101.151.82:9000/jmsytb.m3u8?c=23
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="油管NEWS",NASA
+http://158.101.151.82:9000/jmsytb.m3u8?c=24
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="油管NEWS",CNA
+http://158.101.151.82:9000/jmsytb.m3u8?c=25
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="油管NEWS",CGTN
+http://158.101.151.82:9000/jmsytb.m3u8?c=28
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="油管NEWS",SKY news
+http://158.101.151.82:9000/jmsytb.m3u8?c=29
+
+
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视 
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225702/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视 
