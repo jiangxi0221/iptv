@@ -151,8 +151,7 @@ http://192.168.50.1:6789/udp/239.49.8.178:6000
 http://192.168.50.1:6789/udp/239.49.8.179:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",都市剧场HD
 http://192.168.50.1:6789/udp/239.49.8.180:6000
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="地方",魅力足球HD
-http://192.168.50.1:6789/udp/239.49.8.181:6000
+
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场4K
 http://192.168.50.1:6789/udp/239.49.8.182:6000
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方",第一财经
@@ -161,17 +160,9 @@ http://192.168.50.1:6789/udp/239.49.1.168:6000
 http://192.168.50.1:6789/udp/239.49.1.169:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",法制天地
 http://192.168.50.1:6789/udp/239.49.1.174:6000
-#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="地方",七彩戏剧
-http://192.168.50.1:6789/udp/239.49.1.175:6000
+
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方",游戏风云
 http://192.168.50.1:6789/udp/239.49.1.177:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",极速汽车
-http://192.168.50.1:6789/udp/239.49.1.178:6000
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="地方",劲爆体育
-http://192.168.50.1:6789/udp/239.49.1.180:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",东方财经
-http://192.168.50.1:6789/udp/239.49.1.182:6000
-
 
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实HD
 http://192.168.50.1:6789/udp/239.49.8.79:8000
