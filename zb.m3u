@@ -145,7 +145,7 @@ http://192.168.50.1:6789/rtp/239.49.8.119:8000
 
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓HD
 http://192.168.50.1:6789/rtp/239.49.0.114:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",茶HD
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶HD
 http://192.168.50.1:6789/rtp/239.49.0.146:8000
 #EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="地方",梨园HD
 http://192.168.50.1:6789/rtp/239.49.8.193:8000
@@ -154,7 +154,12 @@ http://192.168.50.1:6789/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",文物宝库HD
 http://192.168.50.1:6789/rtp/239.49.0.209:8000
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="4K",江苏4K测试
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K",欢笑剧场4K
+http://192.168.50.1:6789/rtp/239.49.8.106:8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="4K",江苏4K测试-1
 http://192.168.50.1:6789/rtp/239.49.8.81:8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="4K",江苏4K测试-2
+http://192.168.50.1:6789/rtp/239.49.8.82:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K",4K测试
-http://192.168.50.1:6789/rtp/239.49.8.207:8000
+http://192.168.50.1:6789/rtp/239.49.8.207:6000
+
