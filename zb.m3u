@@ -140,6 +140,15 @@ http://192.168.50.1:6789/rtp/239.49.8.118:8000
 http://192.168.50.1:6789/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="地方",江苏教育HD
 http://192.168.50.1:6789/rtp/239.49.8.122:8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="地方",江苏国际
+http://192.168.50.1:6789/rtp/239.49.1.23:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="地方",江苏学习
+http://192.168.50.1:6789/rtp/239.49.1.124:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="地方",江苏靓装
+http://192.168.50.1:6789/rtp/239.49.1.26:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="地方",财富天下
+http://192.168.50.1:6789/rtp/239.49.1.29:6000
+
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通HD
 http://192.168.50.1:6789/rtp/239.49.8.119:8000
 
@@ -161,8 +170,8 @@ http://192.168.50.1:6789/udp/239.49.1.169:6000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",法制天地
 http://192.168.50.1:6789/udp/239.49.1.174:6000
 
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方",游戏风云
-http://192.168.50.1:6789/udp/239.49.1.177:6000
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方",游戏风云HD
+http://192.168.50.1:6789/udp/239.49.8.176:6000
 
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实HD
 http://192.168.50.1:6789/udp/239.49.8.79:8000
