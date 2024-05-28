@@ -14,7 +14,7 @@ http://192.168.50.1:6789/rtp/239.49.8.18:9610
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6HD
 http://192.168.50.1:6789/rtp/239.49.8.76:8000
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7HD
-http://192.168.50.1:6789/rtp/239.49.9.81:6000
+http://192.168.50.1:6789/rtp/239.49.0.126:8000
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8HD
 http://192.168.50.1:6789/rtp/239.49.8.77:8000
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9HD
