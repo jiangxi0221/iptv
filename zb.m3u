@@ -36,6 +36,13 @@ http://192.168.50.1:6789/rtp/239.49.0.109:8000
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17HD
 http://192.168.50.1:6789/rtp/239.49.8.52:9810
 
+#EXTINF:-1,tvg-id="" tvg-name="CCTV4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV4K.png" group-title="央视",CCTV4K
+http://192.168.50.1:6789/udp/239.49.0.82:8000
+#EXTINF:-1,tvg-id="" tvg-name="CGTN英语" tvg-logo="https://epg.112114.eu.org/logo/CGTN英语.png" group-title="央视",CGTN英语
+http://192.168.50.1:6789/udp/239.49.0.9:8064
+#EXTINF:-1,tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.eu.org/logo/CGTN俄语.png" group-title="央视",CGTN俄语
+http://192.168.50.1:6789/udp/239.49.0.111:8000
+
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视",第一剧场HD
 http://192.168.50.1:6789/rtp/239.49.8.94:8000
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视",风云足球HD
