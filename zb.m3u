@@ -199,6 +199,26 @@ http://192.168.50.1:6789/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",文物宝库HD
 http://192.168.50.1:6789/rtp/239.49.0.209:8000
 
+#EXTINF:-1,tvg-id="" tvg-name="南京新闻综合" tvg-logo="https://epg.112114.eu.org/logo/南京新闻综合.png" group-title="地方",南京新闻综合
+http://192.168.50.1:6789/udp/239.49.0.25:8192
+#EXTINF:-1,tvg-id="" tvg-name="南京教科" tvg-logo="https://epg.112114.eu.org/logo/南京教科.png" group-title="地方",南京科教
+http://192.168.50.1:6789/udp/239.49.0.183:9434
+#EXTINF:-1,tvg-id="" tvg-name="南京生活" tvg-logo="https://epg.112114.eu.org/logo/南京生活.png" group-title="地方",南京生活
+http://192.168.50.1:6789/udp/239.49.0.184:9438
+#EXTINF:-1,tvg-id="" tvg-name="南京信息" tvg-logo="https://epg.112114.eu.org/logo/南京信息.png" group-title="地方",南京信息
+http://192.168.50.1:6789/udp/239.49.0.75:8000
+#EXTINF:-1,tvg-id="" tvg-name="南京影视" tvg-logo="https://epg.112114.eu.org/logo/南京影视.png" group-title="地方",南京影视
+http://192.168.50.1:6789/udp/239.49.0.24:8000
+#EXTINF:-1,tvg-id="" tvg-name="南京娱乐" tvg-logo="https://epg.112114.eu.org/logo/南京娱乐.png" group-title="地方",南京娱乐
+http://192.168.50.1:6789/udp/239.49.8.229:6000
+#EXTINF:-1,tvg-id="" tvg-name="南京少儿" tvg-logo="https://epg.112114.eu.org/logo/南京少儿.png" group-title="地方",南京少儿
+http://192.168.50.1:6789/udp/239.49.8.230:6000
+#EXTINF:-1,tvg-id="" tvg-name="十八频道" tvg-logo="https://epg.112114.eu.org/logo/南京十八.png" group-title="地方",十八频道
+http://192.168.50.1:6789/udp/239.49.0.26:8200
+#EXTINF:-1,tvg-id="" tvg-name="连云港新闻综合" tvg-logo="https://epg.112114.eu.org/logo/连云港新闻综合.png" group-title="地方",连云港新闻综合
+http://192.168.50.1:6789/udp/239.49.0.225:8000
+#EXTINF:-1,tvg-id="" tvg-name="连云港公共" tvg-logo="https://epg.112114.eu.org/logo/连云港公共频道.png" group-title="地方",连云港公共
+http://192.168.50.1:6789/udp/239.49.0.229:8000
 
 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="无锡",无锡新闻综合
 http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
