@@ -102,15 +102,15 @@ http://192.168.50.1:6789/rtp/239.49.0.177:8000
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="卫视",河北卫视
 http://192.168.50.1:6789/rtp/239.49.8.114:8000
 
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="" group-title="卫视",青海卫视
-http://192.168.50.1:6789/rtp/239.49.0.69:8544
 
+
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="" group-title="卫视",山西卫视
+http://192.168.50.1:6789/rtp/239.49.1.55:8000
 
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="" group-title="卫视",甘肃卫视
 http://192.168.50.1:6789/rtp/239.49.0.250:8000
 
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="" group-title="卫视",青海卫视
-http://192.168.50.1:6789/rtp/239.49.0.81:8000
+
 
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="" group-title="卫视",西藏卫视
 http://192.168.50.1:6789/rtp/239.49.1.56:8000
@@ -122,8 +122,9 @@ http://192.168.50.1:6789/rtp/239.49.1.58:8000
 http://192.168.50.1:6789/rtp/239.49.1.60:8000
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="" group-title="卫视",三沙卫视
 http://192.168.50.1:6789/rtp/239.49.0.167:8000
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="" group-title="卫视",山西卫视
-http://192.168.50.1:6789/rtp/239.49.1.55:8000
+
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="" group-title="卫视",青海卫视
+http://192.168.50.1:6789/rtp/239.49.0.81:8000
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="卫视",陕西卫视
 http://192.168.50.1:6789/rtp/239.49.0.233:8000
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="" group-title="卫视",内蒙古卫视
