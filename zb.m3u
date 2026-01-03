@@ -142,7 +142,7 @@ http://192.168.50.1:6789/rtp/239.49.8.108:8000
 http://192.168.50.1:6789/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="" group-title="江苏",江苏影视
 http://192.168.50.1:6789/rtp/239.49.8.118:8000
-#EXTINF:-1 tvg-id="江苏公共新闻" tvg-name="江苏公共新闻" tvg-logo="" group-title="江苏",江苏公共新闻
+#EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="" group-title="江苏",江苏新闻
 http://192.168.50.1:6789/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="" group-title="江苏",江苏教育
 http://192.168.50.1:6789/rtp/239.49.8.122:8000
